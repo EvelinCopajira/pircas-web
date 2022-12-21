@@ -1,0 +1,17 @@
+.multiplica {
+  background-color: rgb(220, 200, 204);
+  padding: 5%;
+}
+
+.multiplica > p {
+  margin: 2%;
+}
+
+
+.hacemos > h2 {
+    margin: 5%;
+}
+
+.hacemos  div > p {
+    text-align: start;
+}

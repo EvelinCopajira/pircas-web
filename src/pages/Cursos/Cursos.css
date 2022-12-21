@@ -1,0 +1,12 @@
+.container-img-cursos {
+  width: 300px;
+  
+}
+
+.container-img-cursos img {
+  width: 100%;
+}
+
+.cursos  div > h2 {
+    font-weight: unset;
+}

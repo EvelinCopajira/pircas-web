@@ -1,0 +1,20 @@
+.dona h2,
+.apadrina h2,
+.voluntario h2 {
+  color: rgb(148, 120, 113);
+  margin: 2%;
+}
+
+.ayuda {
+    display: flex;
+}
+
+.dona, .apadrina, .voluntario {
+  margin: 5%;
+
+}
+
+.ayuda-container h2 {
+    margin: 2%;
+    font-size: 20px;
+}

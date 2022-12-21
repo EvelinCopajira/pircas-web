@@ -1,0 +1,29 @@
+.container-unidades-negocio {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.container-NuestrasActividades {
+  margin: 5%;
+  text-align: start;
+  display: flex;
+  align-items: center;
+}
+.container-img-NuestrasActividades {
+  width: 1000px;
+}
+
+.container-img-NuestrasActividades img {
+  width: 100%;
+}
+
+.container-texto-NuestrasActividades {
+  margin: 3%;
+  text-align: center;
+}
+
+.btn-cursos {
+  background-color: rgb(131, 46, 89) !important;
+  color: white !important;
+  font-weight: bold;
+}

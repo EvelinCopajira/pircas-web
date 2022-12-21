@@ -1,0 +1,23 @@
+.contacto-container {
+  background-color: rgb(220, 200, 204);
+  padding: 2%;
+}
+
+.contacto {
+  display: flex;
+  justify-content: space-around;
+  margin: 5%;
+}
+
+.datos p {
+  font-weight: bold;
+  text-align: start;
+}
+
+.formulario p {
+  font-weight: unset;
+}
+
+.formulario {
+    margin-top: 40%;
+}

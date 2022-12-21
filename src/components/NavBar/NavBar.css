@@ -1,0 +1,62 @@
+.container-logo {
+  width: 170px;
+}
+
+.container-logo img {
+  width: 100%;
+}
+
+.navbar-container {
+  padding-right: 10% !important;
+  padding-left: 10% !important;
+}
+
+.navbar {
+  float: left;
+  width: 100%;
+  border-bottom: #ccc;
+  display: flex;
+  justify-content: center;
+}
+
+.header-primary {
+  background: white !important;
+  box-shadow: none !important;
+  position: fixed;
+  z-index: 1100;
+  top: 0;
+  left: auto;
+  right: 0;
+}
+.header-primary .navbar li {
+  margin-right: 10px;
+}
+.header-primary .navbar .navbar-btn {
+  font-family: "Montserrat", sans-serif;
+  text-transform: none;
+  font-weight: 400;
+  font-size: 16px;
+  color: black;
+}
+.header-primary .navbar .navbar-btn:hover {
+  font-weight: 600;
+}
+
+.header-primary .navbar .navbar-btn:hover:before {
+  width: 85%;
+}
+
+.header-primary .navbar .navbar-btn:before {
+  content: "";
+  position: absolute;
+  width: 0;
+  transition: width 0.3s ease;
+  height: 1px;
+  background: black;
+  bottom: 5px;
+}
+
+.header-primary .navbar .navbar-btn a {
+  color: black;
+  text-decoration: none;
+}

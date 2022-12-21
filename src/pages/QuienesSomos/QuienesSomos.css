@@ -1,0 +1,84 @@
+.container-texto-quienes {
+  display: flex;
+}
+
+.container-texto-quienes p {
+  text-align: start;
+  margin: 5%;
+  font-size: 20px;
+  width: 50%;
+}
+
+.container-texto-quienes p strong {
+  color: rgb(131, 46, 89);
+}
+
+.objetivos {
+  display: flex;
+  text-align: start;
+}
+
+.objetivos-col1,
+.objetivos-col2 {
+  padding: 3%;
+}
+
+.objetivos-col1 li,
+.objetivos-col2 li {
+  margin: 5%;
+  list-style-type: initial;
+}
+
+.container-quienes-presentacion {
+  background-color: rgb(227, 220, 210);
+  padding: 3%;
+}
+
+.container-objetivos {
+  margin-top: 5%;
+}
+
+.valores {
+  display: flex;
+}
+
+.valores h3 {
+  color: rgb(131, 46, 89);
+}
+
+.container-valores {
+  background-color: rgb(220, 200, 204);
+  padding: 2%;
+
+}
+
+.comunidad, .diversidad, .compromiso {
+  margin: 5%;
+}
+
+.valores p {
+  margin: 5%;
+}
+
+.equipo {
+  display: flex;
+  justify-content: center;
+}
+
+.container-equipo {
+  padding: 2%;
+}
+
+.container-equipo p {
+  padding: 2%;
+}
+
+.direccion, .profesores, .apoyo {
+  text-align: start;
+  margin: 5%;
+}
+
+.espacio {
+  background-color: black;
+  font-size: 10px;
+}

@@ -1,0 +1,39 @@
+.container-testimonios {
+  background-color: rgb(227, 220, 210);
+  display: flex;
+  padding: 5%;
+}
+
+.testimonio1,
+.testimonio2,
+.testimonio3 {
+  color: white;
+  margin: 2%;
+  padding: inherit;
+}
+
+.nombre-testimonio {
+  font-weight: bold;
+}
+
+.cargo {
+  font-size: 14px;
+}
+
+.testimonio1 p,
+.testimonio2 p,
+.testimonio3 p {
+  text-align: start;
+}
+
+.testimonio1 {
+  background-color: rgb(148, 120, 113);
+}
+
+.testimonio2 {
+  background-color: rgb(175, 103, 96);
+}
+
+.testimonio3 {
+  background-color: rgb(131, 46, 89);
+}
