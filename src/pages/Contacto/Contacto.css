@@ -19,5 +19,35 @@
 }
 
 .formulario {
-    margin-top: 40%;
+  margin-top: 40%;
+}
+
+.mapa {
+  width: 400px;
+  height: 400px;
+}
+
+.mapa-pircas > h2 {
+  margin: 5%;
+}
+
+.redes {
+  display: flex;
+  justify-content: space-around;
+  margin: 5%;
+}
+
+.instagram a,
+.facebook a,
+.linkedin a {
+  color: rgb(131, 46, 89);
+}
+
+.container-redes {
+  margin: 5%;
+}
+
+.contacto-container > h1,
+.contacto-container h2 {
+  color: rgb(131, 46, 89);
 }

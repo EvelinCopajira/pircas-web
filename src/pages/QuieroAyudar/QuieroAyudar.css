@@ -6,15 +6,29 @@
 }
 
 .ayuda {
-    display: flex;
+  display: flex;
 }
 
-.dona, .apadrina, .voluntario {
+.dona,
+.apadrina,
+.voluntario {
   margin: 5%;
-
+  text-align: -webkit-center;
 }
 
 .ayuda-container h2 {
-    margin: 2%;
-    font-size: 20px;
+  margin: 2%;
+  font-size: 20px;
+}
+
+.container-img-dona,
+.container-img-apadrina,
+.container-img-voluntario {
+  width: 150px;
+}
+
+.container-img-dona img,
+.container-img-apadrina img,
+.container-img-voluntario img {
+  width: 100%;
 }

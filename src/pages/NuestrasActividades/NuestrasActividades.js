@@ -9,7 +9,7 @@ const NuestrasActividades = () => {
       <h1>NUESTRAS ACTIVIDADES</h1>
       <div className="container-NuestrasActividades">
         <div className="container-img-NuestrasActividades">
-          <img src="/img/pircas-portada.png" alt="imagen-NuestrasActividades"></img>
+          <img src="/img/img-actividades.png" alt="imagen-NuestrasActividades"></img>
         </div>
         <div className="container-texto-NuestrasActividades">
           <p>
@@ -20,7 +20,7 @@ const NuestrasActividades = () => {
             saberes, la innovación y la creatividad.
           </p>
           <br />
-          <Button className="btn-cursos"><Link to={"/cursos"}>CURSOS</Link></Button>
+          <Button className="btn-cursos"><Link to={"/cursos"}>VER CURSOS</Link></Button>
 
         </div>
       </div>

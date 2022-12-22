@@ -7,7 +7,7 @@ const Cursos = () => {
       <div className="cursos-container">
         <div className="cursos">
           <div className="container-img-cursos">
-            <img src="/img/logo-pircas.png" alt="imagen-portada"></img>
+            <img src="/img/logo-taller-oficios.png" alt="imagen-portada"></img>
           </div>
           <div>
             <h2>Un espacio para descubrir y conectar con tus habilidades</h2>

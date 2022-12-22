@@ -10,8 +10,7 @@ const QuienesSomos = () => {
             <p>
               En Fundación Pircas impulsamos una propuesta activa de inclusión y
               formación educativa capacitando y brindando herramientas concretas
-              para el desempeño de un oficio, enmarcado en el
-              <strong>Espacio Taller de Oficios</strong>: un entorno cooperativo
+              para el desempeño de un oficio, enmarcado en el <strong>Espacio Taller de Oficios:</strong> un entorno cooperativo
               de aprendizaje mutuo y de circulación de saberes.
             </p>
             <p>
@@ -82,8 +81,10 @@ const QuienesSomos = () => {
           </div>
         </div>
         <div className="container-equipo">
-          <h2>EL EQUIPO</h2>
-          <p>Compromiso y pasión por la transformación social.</p>
+        <div className="container-img-equipo">
+          <img src="/img/img-equipo.png" alt="imagen-equipo"></img>
+        </div>
+{/*           <p>Compromiso y pasión por la transformación social.</p>
           <div className="equipo">
             <div className="direccion">
               <h3>DIRECCIÓN EJECUTIVA</h3>
@@ -121,7 +122,7 @@ const QuienesSomos = () => {
               <p>Zoe Jusid</p>
               <p>Jazmín Chucrel</p>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </>

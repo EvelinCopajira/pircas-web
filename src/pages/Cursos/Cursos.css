@@ -1,12 +1,15 @@
 .container-img-cursos {
-  width: 300px;
-  
+  width: 500px;
 }
 
 .container-img-cursos img {
   width: 100%;
 }
 
-.cursos  div > h2 {
-    font-weight: unset;
+.cursos div > h2 {
+  font-weight: unset;
+}
+
+.cursos {
+  text-align: -webkit-center;
 }

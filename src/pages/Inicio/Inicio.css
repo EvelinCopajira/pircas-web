@@ -40,10 +40,6 @@
   margin: 5%;
 }
 
-.container-texto-proposito p strong {
-  color: rgb(131, 46, 89);
-}
-
 .container-impacto {
   background-color: rgb(220, 200, 204);
   display: flex;

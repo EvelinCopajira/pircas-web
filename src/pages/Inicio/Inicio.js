@@ -32,9 +32,8 @@ const Inicio = () => {
         </div>
         <p className="container-texto-proposito">
           <p>
-            <strong>Fundación Pircas</strong> es una ONG que busca generar
-            igualdad de oportunidades en el acceso a la educación de calidad,
-            inclusión a un espacio social y comunitario y transformación y
+            Somos una ONG que busca generar igualdad de oportunidades en el
+            acceso a la educación de calidad para la inclusión, transformación y
             mejora del mundo en el que vivimos.
           </p>
           <br />
@@ -43,10 +42,9 @@ const Inicio = () => {
           <br />
 
           <p>
-            <strong>Fundación Pircas</strong> impulsa una propuesta activa de
-            inclusión y formación educativa capacitando y brindando herramientas
-            concretas para el desempeño de un oficio, enmarcado en el Espacio
-            Taller de Oficios: un entorno cooperativo de aprendizaje mutuo y de
+            Impulsamos una propuesta activa de inclusión y formación capacitando
+            y brindando herramientas para el desempeño de un oficio en el
+            Espacio Taller de Oficios: un entorno de aprendizaje mutuo y de
             circulación de saberes.
           </p>
         </p>
@@ -59,9 +57,9 @@ const Inicio = () => {
           <img src="/img/cordoba-bordo.png" alt="imagen-cordoba"></img>
         </div>
         <div className="impacto-estudiantes">
-          <h2>+ 500</h2>
+          <h2>+ 420</h2>
           <p>
-            <strong>estudiantes</strong>
+            <strong>estudiantes en 2022</strong>
           </p>
         </div>
         <div className="impacto-trabajo">
