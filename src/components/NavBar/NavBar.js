@@ -32,7 +32,7 @@ const NavBar = () => {
                 variant="text"
                 className="navbar-btn"
               >
-                <Link to={"/nuestrasactividades"}>NUESTRAS ACTIVIDADES</Link>
+                <Link to={"/quienessomos"}>QUIENES SOMOS</Link>
               </Button>
             </li>
             <li>
@@ -41,8 +41,8 @@ const NavBar = () => {
                 style={{ backgroundColor: "transparent" }}
                 variant="text"
                 className="navbar-btn"
-              ><Link to={"/quienessomos"}>QUIENES SOMOS</Link>
-                
+              >
+                <Link to={"/nuestrasactividades"}>NUESTRAS ACTIVIDADES</Link>
               </Button>
             </li>
             <li>
