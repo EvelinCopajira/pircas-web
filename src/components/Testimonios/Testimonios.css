@@ -13,7 +13,7 @@
 }
 
 .nombre-testimonio {
-  font-weight: bold;
+  font-weight: 900;
 }
 
 .cargo {
@@ -36,4 +36,9 @@
 
 .testimonio3 {
   background-color: rgb(131, 46, 89);
+}
+
+.container-img-comillas {
+  background-color: rgb(148, 120, 113) !important;
+  color: black;
 }
