@@ -1,0 +1,25 @@
+.cards-cursos-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card-curso {
+  margin: 5%;
+  background-color: rgb(227, 220, 210) !important;
+  min-width: 275px;
+  box-shadow: none !important;
+}
+
+.btn-curso {
+  place-content: center;
+}
+
+.btn {
+  background-color: rgb(131, 46, 89) !important;
+  font-weight: 900 !important;
+}
+
+.btn > a {
+  color: white !important;
+}
