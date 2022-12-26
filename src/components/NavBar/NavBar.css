@@ -14,7 +14,6 @@
 .navbar {
   float: left;
   width: 100%;
-  border-bottom: #ccc;
   display: flex;
   justify-content: center;
 }
@@ -59,4 +58,10 @@
 .header-primary .navbar .navbar-btn a {
   color: black;
   text-decoration: none;
+}
+
+.btn-whpp {
+  width: 40px !important;
+  height: 40px !important;
+  color: rgb(131, 46, 89);
 }

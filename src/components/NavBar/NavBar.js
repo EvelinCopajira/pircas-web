@@ -3,6 +3,7 @@ import AppBar from "@mui/material/AppBar";
 import Toolbar from "@mui/material/Toolbar";
 import Button from "@mui/material/Button";
 import { Link } from "react-router-dom";
+import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 
 const NavBar = () => {
   return (
@@ -66,6 +67,15 @@ const NavBar = () => {
               </Button>
             </li>
           </ul>
+          <div className="whpp">
+            <a
+              href="https://wa.me/+5493518746573"
+              target={"_blank"}
+              rel={"noreferrer"}
+            >
+              <WhatsAppIcon className="btn-whpp"/>
+            </a>
+          </div>
         </Toolbar>
       </AppBar>
     </>
