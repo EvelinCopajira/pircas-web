@@ -1,0 +1,61 @@
+.container-presentacion-curso {
+  background-color: rgb(227, 220, 210);
+  display: flex;
+  align-items: center;
+}
+
+.container-img-presentacion {
+  width: 25%;
+}
+
+.container-img-presentacion > img {
+  width: 100%;
+}
+
+.container-texto > h3 {
+  font-weight: unset;
+}
+
+.container-texto > p {
+  color: rgb(131, 46, 89);
+}
+.container-texto h1,
+.container-texto h3,
+.container-texto > p {
+  text-align: start;
+}
+
+.logos-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 5%;
+
+}
+
+.btn-inscripcion {
+  color: white !important;
+  background-color: rgb(131, 46, 89) !important;
+  font-weight: 900 !important;
+}
+
+.icon {
+  font-size: 30px !important;
+}
+
+.icon-container {
+width: 25%;
+}
+
+.btn-datos-cursos {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+
+.btn-inscripcion > a {
+    color: white !important;
+}
+
+.container-texto {
+    margin: 5%;
+}

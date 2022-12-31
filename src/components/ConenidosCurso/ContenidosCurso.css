@@ -1,0 +1,28 @@
+.contenido-curso-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0%;
+  align-items: center;
+}
+
+.contenido {
+  text-align: start;
+  
+}
+
+.contenido > ol > li {
+  list-style-type: decimal !important;
+  font-size: 20px;
+}
+
+.contenido > ol {
+  margin:  3%;
+}
+
+.container-img-contenido {
+  width: 40%;
+}
+
+.container-img-contenido img {
+  width: 100%;
+}

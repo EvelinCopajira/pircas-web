@@ -7,7 +7,7 @@ const Inicio = () => {
         <div className="container-img-inicio">
           <img src="/img/pircas-logo.png" alt="imagen-portada"></img>
         </div>
-        <div className="container-texto">
+        <div className="container-texto-inicio">
           <p>
             <strong>PIRCA</strong> se conoce porpularmente como aquella técnica
             que señaliza un camino y se construye de manera artesanal.

@@ -7,6 +7,7 @@ import QuienesSomos from "./pages/QuienesSomos/QuienesSomos";
 import QuieroAyudar from "./pages/QuieroAyudar/QuieroAyudar";
 import Contacto from "./pages/Contacto/Contacto";
 import Cursos from "./pages/Cursos/Cursos";
+import Carpinteria from "./pages/Cursos/Carpinteria/Carpinteria";
 
 function App() {
   return (
@@ -24,6 +25,8 @@ function App() {
           <Route path="/quieroayudar" element={<QuieroAyudar />} />
           <Route path="/contacto" element={<Contacto />} />
           <Route path="/cursos" element={<Cursos />} />
+          <Route path="/carpinteria" element={<Carpinteria />} />
+
 
         </Routes>
       </BrowserRouter>

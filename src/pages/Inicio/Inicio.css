@@ -13,11 +13,11 @@
   width: 100%;
 }
 
-.container-texto {
+.container-texto-inicio {
   margin: 3%;
 }
 
-.container-texto p {
+.container-texto-inicio p {
   margin-top: 3%;
   margin-bottom: 3%;
 }

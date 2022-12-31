@@ -1,0 +1,32 @@
+.objetivos-container {
+  background-color: rgb(227, 220, 210);
+  padding: 3%;
+}
+
+.objetivos-container > h3 {
+  text-align: start;
+  margin: 1%;
+}
+
+.programa-multiplica {
+  background-color: rgb(220, 200, 204);
+  padding: 3%;
+}
+
+.programa-multiplica > h3 {
+  padding: 3%;
+}
+
+.objetivos > p {
+  margin: 5%;
+  font-size: 20px;
+}
+
+.docente {
+  width: 500px;
+  display: -webkit-inline-box;
+}
+
+.docente img {
+  width: 100%;
+}

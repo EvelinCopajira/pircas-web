@@ -40,7 +40,7 @@ const Contacto = () => {
                     target={"_blank"}
                     rel={"noreferrer"}
                   >
-                    <FacebookIcon />
+                    <FacebookIcon className="redes"/>
                   </a>
                 </div>
                 <div className="instagram">
@@ -49,7 +49,7 @@ const Contacto = () => {
                     target={"_blank"}
                     rel={"noreferrer"}
                   >
-                    <InstagramIcon />
+                    <InstagramIcon className="redes"/>
                   </a>
                 </div>
                 <div className="linkedin">
@@ -58,7 +58,7 @@ const Contacto = () => {
                     target={"_blank"}
                     rel={"noreferrer"}
                   >
-                    <LinkedInIcon />
+                    <LinkedInIcon className="redes"/>
                   </a>
                 </div>
               </div>
